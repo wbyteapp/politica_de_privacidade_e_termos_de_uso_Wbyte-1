@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Termo de uso e Politica de privacidade Wbyte
 
-You can use the [editor on GitHub](https://github.com/Willian0liveira/politica_de_privacidade_e_termos_de_uso_Wbyte/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+🕵 PolíticaPrivacidade
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gerador de Política de Privacidade e Termos de Uso
+MAIS DE 50.000 POLÍTICAS DE PRIVACIDADE E TERMOS DE USO GERADOS DESDE 2011
+Crie uma política de privacidade e termos de uso personalizados para o seu site em segundos!
 
-### Markdown
+Wbyte
+https://play.google.com/store/apps/details?id=com.wmentretenimento.codq_de_bolso
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h2 style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;">Pol&iacute;tica Privacidade</h2> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">A sua privacidade &eacute; importante para n&oacute;s. &Eacute; pol&iacute;tica do Wbyte respeitar a sua privacidade em rela&ccedil;&atilde;o a qualquer informa&ccedil;&atilde;o sua que possamos coletar no site <a href="https://play.google.com/store/apps/details?id=com.wmentretenimento.codq_de_bolso">Wbyte</a>, e outros sites que possu&iacute;mos e operamos.</p> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">Solicitamos informa&ccedil;&otilde;es pessoais apenas quando realmente precisamos delas para lhe fornecer um servi&ccedil;o. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Tamb&eacute;m informamos por que estamos coletando e como ser&aacute; usado.</p> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">Apenas retemos as informa&ccedil;&otilde;es coletadas pelo tempo necess&aacute;rio para fornecer o servi&ccedil;o solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceit&aacute;veis ​​para evitar perdas e roubos, bem como acesso, divulga&ccedil;&atilde;o, c&oacute;pia, uso ou modifica&ccedil;&atilde;o n&atilde;o autorizados.</p> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">N&atilde;o compartilhamos informa&ccedil;&otilde;es de identifica&ccedil;&atilde;o pessoal publicamente ou com terceiros, exceto quando exigido por lei.</p> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">O nosso site pode ter links para sites externos que n&atilde;o s&atilde;o operados por n&oacute;s. Esteja ciente de que n&atilde;o temos controle sobre o conte&uacute;do e pr&aacute;ticas desses sites e n&atilde;o podemos aceitar responsabilidade por suas respectivas&nbsp;<a style="box-sizing: border-box; color: #055af9; text-decoration-line: none; background-color: transparent;" href="https://politicaprivacidade.com/" target="_BLANK">pol&iacute;ticas de privacidade</a>.</p> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">Voc&ecirc; &eacute; livre para recusar a nossa solicita&ccedil;&atilde;o de informa&ccedil;&otilde;es pessoais, entendendo que talvez n&atilde;o possamos fornecer alguns dos servi&ccedil;os desejados.</p> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">O uso continuado de nosso site ser&aacute; considerado como aceita&ccedil;&atilde;o de nossas pr&aacute;ticas em torno de <a href='https://avisodeprivacidad.info/' rel='nofollow' target='_BLANK' style='color:inherit !important; text-decoration: none !important; font-size: inherit !important;'>Aviso de Privacidad</a> e informa&ccedil;&otilde;es pessoais. Se voc&ecirc; tiver alguma d&uacute;vida sobre como lidamos com dados do usu&aacute;rio e informa&ccedil;&otilde;es pessoais, entre em contacto connosco.</p> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"></p> <h3 style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">Compromisso do Usu&aacute;rio</h3> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">O usu&aacute;rio se compromete a fazer uso adequado dos conte&uacute;dos e da informa&ccedil;&atilde;o que o Wbyte oferece no site e com car&aacute;ter enunciativo, mas n&atilde;o limitativo:</p> <ul style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #576d96; font-family: Montserrat, sans-serif; font-size: 16px; background-color: #ffffff;"> <li style="box-sizing: border-box;">A) N&atilde;o se envolver em atividades que sejam ilegais ou contr&aacute;rias &agrave; boa f&eacute; a &agrave; ordem p&uacute;blica;</li> <li style="box-sizing: border-box;">B) N&atilde;o difundir propaganda ou conte&uacute;do de natureza racista, xenof&oacute;bica, <a href='https://ondeapostar.com/betano-e-confiavel' rel='nofollow' target='_BLANK' style='color:inherit !important; text-decoration: none !important; font-size: inherit !important;'> betano</a> ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;</li> <li style="box-sizing: border-box;">C) N&atilde;o causar danos aos sistemas f&iacute;sicos (hardwares) e l&oacute;gicos (softwares) do Wbyte, de seus fornecedores ou terceiros, para introduzir ou disseminar v&iacute;rus inform&aacute;ticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.</li> </ul> <h3 style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">Mais informa&ccedil;&otilde;es</h3> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que voc&ecirc; n&atilde;o tem certeza se precisa ou n&atilde;o, geralmente &eacute; mais seguro deixar os cookies ativados, caso interaja com um dos recursos que voc&ecirc; usa em nosso site.</p> <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 16px; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;">Esta pol&iacute;tica &eacute; efetiva a partir de <strong>28 julho 2022 23:07</strong></p>
+Sobre a Política de Privacidade e Termos de Uso
+ 
 
-# Header 1
-## Header 2
-### Header 3
+O que é uma Política de Privacidade?
+Uma política de privacidade é um documento que explica como um website lida com toda a informação coletada dos seus utilizadores e/ou clientes. É uma boa prática dizer aos utilizadores como os sites armazenam e fazem uso desses dados.
 
-- Bulleted
-- List
+A Importância da Política de Privacidade
+As políticas de privacidade podem ser exigidas por lei, dependendo de onde você opera. Em qualquer caso, é uma boa prática ter uma política de privacidade de proteção de dados, especialmente se você colectar qualquer tipo de dados privados de seus usuários (por exemplo, dados de cookies, detalhes de pagamento, endereço e número de telefone). Além disso, você pode precisar de uma política de privacidade para usar Google AdSense, APIs e serviços de terceiros como o Instagram ou listar seu aplicativo em um mercado comercial como o Google Play. Se o seu site envolver usuários no Espaço Económico Europeu, você poderá ser obrigado a publicar uma política de privacidade em conformidade com o GDPR.
 
-1. Numbered
-2. List
+O que são Termos de Uso (Termos e Condições)?
+Tecnicamente, você não precisa de uma declaração de termos de serviço. Não é exigido por lei, mas geralmente é aconselhável incluir esses termos no seu site para cobrir as expectativas e acordos entre você e seus usuários.
 
-**Bold** and _Italic_ and `Code` text
+Algumas empresas podem até solicitar que você disponibilize uma antes que possa entrar em um relacionamento com elas. Na maioria das vezes, os proprietários e usuários do site se comportam de maneira justa e razoável, tornando suas informações de termos e condições redundantes. No entanto, em circunstâncias incomuns, como aquelas que envolvem abuso, roubo de propriedade intelectual ou comportamento ilegal, a indicação explícita dos termos e condições pode oferecer proteções básicas para você e sua empresa, limitando sua responsabilidade e esclarecendo seus direitos sobre o conteúdo publicado.
 
-[Link](url) and ![Image](src)
-```
+Sobre Nós
+ 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+O que é o PoliticaPrivacidade.com?
+PoliticaPrivacidade.com é um gerador de políticas de privacidade e termos de uso (também conhecido como termos e condições) em lingua portuguesa (Portugal e Brasil) e inglesa totalmente gratuito e gerados em segundos.
 
-### Jekyll Themes
+Quer seja para um loja em Shopify ou para um blog em Wordpress, geramos simples políticas de privacidade e termos de uso, prontos a adaptar para as suas necessidade.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Willian0liveira/politica_de_privacidade_e_termos_de_uso_Wbyte/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Tudo o que é gerado através do PoliticaPrivacidade.com pode ser usado sem qualquer tipo de crédito ou ligação. Altere livremente o conteúdo adaptando à sua necessidade.
 
-### Support or Contact
+O PoliticaPrivacidade.com não assume qualquer tipo responsabilidade do uso do conteúdo nele gerado em website de terceiros. Relembramos que ao gerar e usar a Política de Privacidade e os Termos de Uso através do nosso site, não prescinde de aconselhamento legal para adaptar à sua prática de negócio.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Tem custos? Quanto Tempo Demora?
+Não. É totalmente gratuito e em menos de 10 segundos consegue gerar uma política de privacidade e termos de uso (termos e condições).
+
+Que sites geraram aqui uma Política de Privacidade?
+Variadíssimos sites reconhecidos usaram o nosso gerador para criar a sua política de privacidade. Desde sites sobre Investir em Criptomoedas, Jogos de Hoje, Insper, e até Universidades como Universidade de Minas Gerais, Faculdade Teológica Sul Americana são apenas alguns da enorme lista.
+
+PoliticaPrivacidade | Todos os Direitos Reservados | 2011-2022
+
+

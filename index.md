@@ -1,4 +1,4 @@
-## Termo de uso e Politica de privacidade Wbyte
+## Termo de uso e Política de privacidade Wbyte
 
 🕵 PolíticaPrivacidade
 
